@@ -7,6 +7,7 @@ _Analyzing user behavior across the purchase funnel to identify drop-offs and im
 ## 📌 Table of Contents
 - <a href="#overview">Overview</a>
 - <a href="#business-problem">Business Problem</a>
+- <a href="#dataset">Dataset</a>
 - <a href="#tools--technologies">Tools & Technologies</a>
 - <a href="#analysis--key-findings">Analysis & Key Findings</a>
 - <a href="#dashboard">Dashboard</a>
@@ -33,6 +34,11 @@ E-commerce platforms often lose potential customers during the purchase journey.
 
 ---
 
+<h2><a class="anchor" id="dataset"></a>Dataset</h2>
+
+- Dataset used in this project: [Add Dataset Link Here](https://your-dataset-link.com)
+
+---
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
 - Excel (Data validation and basic preprocessing)
