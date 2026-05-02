@@ -87,4 +87,4 @@ The Power BI dashboard provides insights into:
 Data Analyst
 - 📧 Email: (arnavjha3112@gmail.com) 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arnavkumarjha/)
-- 🐙 [Portfolio](https://github.com/arnavjha-3112)
+- 🐙 [Github](https://github.com/arnavjha-3112)
