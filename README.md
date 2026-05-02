@@ -62,7 +62,7 @@ E-commerce platforms often lose potential customers during the purchase journey.
 <h2><a class="anchor" id="sql-queries"></a>📂 SQL Queries</h2>
 
 All SQL queries used in this project can be found here:  
-[View SQL Queries](sql/ecommerce_queries.sql)
+[View SQL Queries](sql/analysis_queries.sql)
 
 ---
 
