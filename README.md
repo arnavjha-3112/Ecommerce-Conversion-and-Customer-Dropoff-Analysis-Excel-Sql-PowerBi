@@ -10,6 +10,7 @@ _Analyzing user behavior across the purchase funnel to identify drop-offs and im
 - <a href="#dataset">Dataset</a>
 - <a href="#tools--technologies">Tools & Technologies</a>
 - <a href="#analysis--key-findings">Analysis & Key Findings</a>
+- <a href="#-sql-queries">SQL Queries</a>
 - <a href="#dashboard">Dashboard</a>
 - <a href="#final-recommendations">Final Recommendations</a>
 - <a href="#author--contact">Author & Contact</a>
@@ -55,6 +56,13 @@ E-commerce platforms often lose potential customers during the purchase journey.
 4. **Revenue Concentration**: Revenue is driven by a limited set of product categories, indicating partial revenue concentration
 5. **Device Performance**: Conversion rates across devices are consistent (~22–23%), suggesting no major device-specific issues
 6. **Marketing Channels**: The top marketing channel generates over **1.8M in revenue**, outperforming others in acquisition effectiveness
+
+---
+
+<h2><a class="anchor" id="sql-queries"></a>📂 SQL Queries</h2>
+
+All SQL queries used in this project can be found here:  
+[View SQL Queries](sql/ecommerce_queries.sql)
 
 ---
 
