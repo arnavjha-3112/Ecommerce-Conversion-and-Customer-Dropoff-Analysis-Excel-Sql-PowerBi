@@ -36,7 +36,7 @@ E-commerce platforms often lose potential customers during the purchase journey.
 
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
-- Dataset used in this project: [Add Dataset Link Here](https://your-dataset-link.com)
+- Dataset used in this project: [Add Dataset Link Here](https://www.kaggle.com/datasets/kundanbedmutha/indian-e-commerce-customer-behavior-and-purchase)
 
 ---
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
