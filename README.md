@@ -4,7 +4,7 @@ _Analyzing user behavior across the purchase funnel to identify drop-offs and im
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 - <a href="#overview">Overview</a>
 - <a href="#business-problem">Business Problem</a>
 - <a href="#dataset">Dataset</a>
